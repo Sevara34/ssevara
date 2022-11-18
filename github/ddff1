@@ -1,2 +1,6 @@
 <?php
 echo 'github'
+sodium_crypto_pwhash_scryptsalsa208sha256
+if 
+dba_delete 'class'
+
